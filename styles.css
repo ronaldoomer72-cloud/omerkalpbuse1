@@ -32,11 +32,6 @@ body {
   left: 50%;
   margin: -225px 0 0 -225px;
 }
-#ui .love:last-child .love_word {
-  color: #fff;
-  font-size: 2rem;
-  text-shadow: 0 0 10px #ea80b0;
-}
 #ui .love_word {
   color: #ea80b0;
   font-size: 1.4rem;
@@ -724,4 +719,4 @@ body {
   100% {
     transform: translateY(180px);
   }
-                         }
+}
